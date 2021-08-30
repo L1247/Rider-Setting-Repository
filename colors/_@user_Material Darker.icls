@@ -5,7 +5,7 @@
     <property name="description">Change Local variable color</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-31T03:31:24</property>
+    <property name="modified">2021-08-31T03:50:22</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail" />
     <property name="vendorName">rStar Material Darker v0.13</property>
