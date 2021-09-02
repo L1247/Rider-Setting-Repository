@@ -32,7 +32,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="ae" value="Assert.AreEqual( $Expected$ , $SELECTION$$END$ );" description="Assert.AreEqual" toReformat="true" toShortenFQNames="true">
+  <template name="ae" value="Assert.AreEqual( $Expected$ , $SELECTION$$END$ );" description="Assert.AreEqual" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="Expected" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
@@ -59,7 +59,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="an" value="Assert.NotNull( $SELECTION$$END$ );" description="Assert.NotNull" toReformat="true" toShortenFQNames="true">
+  <template name="an" value="Assert.NotNull( $SELECTION$$END$ );" description="Assert.NotNull" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
