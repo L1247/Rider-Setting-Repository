@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="MySaveData" type="AUTO_DETECTED" />
       <mapping ext="mpq" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
