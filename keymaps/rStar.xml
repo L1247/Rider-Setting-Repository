@@ -122,7 +122,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="GotoTypeDeclaration">
-    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="shift u" />
   </action>
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Graph.RouteEdges" />
