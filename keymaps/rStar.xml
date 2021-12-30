@@ -74,6 +74,7 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="EmmetNextEditPoint" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
@@ -122,7 +123,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Graph.RouteEdges" />
@@ -190,6 +191,7 @@
   <action id="RiderOpenSolution" />
   <action id="RunDashboard.EditConfiguration" />
   <action id="RunDashboard.Stop" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -201,4 +203,5 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.MarkdownCreateLinkAction" />
 </keymap>
