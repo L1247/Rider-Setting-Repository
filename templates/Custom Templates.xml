@@ -1,11 +1,13 @@
 <templateSet group="Custom Templates">
-  <template name="d" value="Debug.Log($&quot;$Select$ {$SELECTION$$END$}&quot;);" description="Debug.Log" toReformat="false" toShortenFQNames="true">
+  <template name="d" value="Debug.Log($&quot;$Select$&quot;);" description="Debug.Log" toReformat="false" toShortenFQNames="true">
     <variable name="Select" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
       <option name="Handlebars" value="false" />
@@ -19,7 +21,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="setup" value="[SetUp]&#10;public void Setup()&#10;{&#10;    $END$&#10;}" description="unit test setup" toReformat="true" toShortenFQNames="true">
+  <template name="setup" value="[SetUp]&#10;public void Setup()&#10;{&#10;    $END$&#10;}" description="unit test setup" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -32,7 +34,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="ae" value="Assert.AreEqual( $Expected$ , $SELECTION$$END$ );" description="Assert.AreEqual" toReformat="true" toShortenFQNames="true">
+  <template name="ae" value="Assert.AreEqual( $Expected$ , $SELECTION$$END$ );" description="Assert.AreEqual" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="Expected" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
@@ -59,7 +61,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="an" value="Assert.NotNull( $SELECTION$$END$ );" description="Assert.NotNull" toReformat="true" toShortenFQNames="true">
+  <template name="an" value="Assert.NotNull( $SELECTION$$END$ );" description="Assert.NotNull" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -104,7 +106,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="in" value="[Inject]&#10;private $End$" description="inject attribute" toReformat="false" toShortenFQNames="true">
+  <template name="in" value="[Inject]&#10;private $End$" description="inject attribute" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
