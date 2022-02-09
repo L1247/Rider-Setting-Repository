@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ViewComponent'" />
-    <option name="defaultScopeName" value="Project 'ViewComponent'" />
-    <option name="SEARCH_SCOPE" value="Project 'ViewComponent'" />
+    <option name="customScope" value="Project 'Sirenix.OdinInspector.Editor'" />
+    <option name="defaultScopeName" value="Project 'Sirenix.OdinInspector.Editor'" />
+    <option name="SEARCH_SCOPE" value="Project 'Sirenix.OdinInspector.Editor'" />
   </component>
 </application>
