@@ -1,10 +1,10 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Rider Dark" version="142" parent_scheme="Rider Dark">
   <metaInfo>
-    <property name="created">2021-08-23T14:34:02</property>
+    <property name="created">2022-05-08T06:48:55</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2021.2.0.0</property>
+    <property name="ideVersion">2022.1.1.0.0</property>
     <property name="modified">2022-05-08T06:49:51</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
@@ -31,8 +31,8 @@
   <attributes>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="dcdcdc" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="FOREGROUND" value="d0d0d0" />
+        <option name="BACKGROUND" value="262626" />
       </value>
     </option>
   </attributes>
