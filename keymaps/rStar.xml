@@ -171,6 +171,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="QuickActionPopup">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
   <action id="RdParameterDeclarationNavigationAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
