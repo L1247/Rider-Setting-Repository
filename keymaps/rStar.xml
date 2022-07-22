@@ -23,10 +23,12 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateUnityToolWindow">
-    <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="alt f5" />
+    <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="alt f5" />
+    <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="alt 9" />
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
