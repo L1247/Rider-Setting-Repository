@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="factory" />
       <item value="skill Helper" />
       <item value="actor Movement" />
       <item value="skill Commander" />
@@ -21,12 +22,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="CHINESE_TRADITIONAL" value="17" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658967073920" />
+    <option name="lastTrimTime" value="1662001162123" />
   </component>
 </application>
