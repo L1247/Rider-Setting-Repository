@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="factory" />
+      <item value="skill Helper" />
+      <item value="actor Movement" />
       <item value="skill Commander" />
       <item value="Should Return Positive Number Of Add Result" />
       <item value="Should Return Positive Number" />
@@ -19,12 +22,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="CHINESE_TRADITIONAL" value="17" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647555977843" />
+    <option name="lastTrimTime" value="1662001162123" />
   </component>
 </application>
