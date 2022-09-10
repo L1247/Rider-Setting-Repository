@@ -217,5 +217,8 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="com.jetbrains.rider.plugins.unity.actions.ShowFileInUnityAction">
+    <keyboard-shortcut first-keystroke="alt end" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.MarkdownCreateLinkAction" />
 </keymap>
