@@ -71,9 +71,11 @@
   </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
+    <keyboard-shortcut first-keystroke="shift minus" />
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
+    <keyboard-shortcut first-keystroke="shift equals" />
   </action>
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
