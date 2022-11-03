@@ -120,7 +120,9 @@
     <keyboard-shortcut first-keystroke="alt quote" />
     <mouse-shortcut keystroke="button5" />
   </action>
-  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.Commit.And.Push.Executor">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark3" />
   <action id="GotoClass">

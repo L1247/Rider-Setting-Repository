@@ -118,6 +118,9 @@
       <shortcut-conflict owner="ide">
         <text encoding="base64">YWx0IHByZXNzZWQgVQ==</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBhbHQgcHJlc3NlZCBL</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimSettings">
