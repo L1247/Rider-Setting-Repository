@@ -1,11 +1,8 @@
 <application>
   <component name="AtomFileIconsConfig">
-    <option name="enabledIcons" value="false" />
-    <option name="hideFolderIcons" value="true" />
-    <option name="isEnabledIcons" value="false" />
-    <option name="monochromeColor" value="546e7a" />
-    <option name="isHideFolderIcons" value="true" />
-    <option name="arrowsStyle" value="Darcula" />
-    <option name="hasBigIcons" value="true" />
+    <option name="monochromeColor" value="498d6b" />
+    <option name="hasCustomIconSize" value="true" />
+    <option name="hasCustomLineHeight" value="true" />
+    <option name="customIconSize" value="22" />
   </component>
 </application>

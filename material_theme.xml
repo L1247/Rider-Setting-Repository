@@ -3,7 +3,6 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highContrast" value="true" />
     <option name="styledDirectories" value="true" />
@@ -13,7 +12,6 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isStyledDirectories" value="true" />
@@ -32,5 +30,6 @@
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="20e3da2c:177cb3ca695:-8000" />
     <option name="version" value="7.14.2" />
+    <option name="tabHighlightPosition" value="Top" />
   </component>
 </application>
