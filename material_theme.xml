@@ -20,10 +20,13 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
-    <option name="treeFontSize" value="18" />
-    <option name="settingsSelectedTab" value="2" />
+    <option name="customSidebarHeight" value="24" />
+    <option name="treeFontSize" value="24" />
+    <option name="tabFontSize" value="20" />
+    <option name="indicatorThickness" value="4" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="20e3da2c:177cb3ca695:-8000" />
