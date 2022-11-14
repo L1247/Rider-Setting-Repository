@@ -27,8 +27,9 @@
     <option name="treeFontSize" value="24" />
     <option name="tabFontSize" value="20" />
     <option name="indicatorThickness" value="4" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="20e3da2c:177cb3ca695:-8000" />
     <option name="version" value="7.14.2" />
   </component>
