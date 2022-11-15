@@ -9,6 +9,7 @@
     <option name="useMaterialFont" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
+    <option name="isActiveBoldTab" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -19,7 +20,6 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
-    <option name="upperCaseTabs" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="indicatorStyle" value="Dot" />
