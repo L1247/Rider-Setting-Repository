@@ -106,8 +106,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="in" value="[Inject]&#10;private $End$" description="inject attribute" toReformat="false" toShortenFQNames="true">
-    <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="in" value="[Inject]" description="inject attribute" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
