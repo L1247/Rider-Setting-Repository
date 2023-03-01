@@ -5,7 +5,7 @@
     <property name="description">Changed unused field and static field</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2023-03-01T19:03:11</property>
+    <property name="modified">2023-03-02T04:55:18</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail" />
     <property name="vendorName">rStar Material Darker v0.15</property>
@@ -3720,8 +3720,6 @@
         <option name="FOREGROUND" value="616161" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
