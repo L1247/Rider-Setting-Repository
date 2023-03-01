@@ -5,7 +5,7 @@
     <property name="description">Changed unused field and static field</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2023-03-01T20:32:50</property>
+    <property name="modified">2023-03-01T19:03:11</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail" />
     <property name="vendorName">rStar Material Darker v0.15</property>
@@ -13,15 +13,15 @@
     <property name="version">0.15</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -3506,7 +3506,7 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="" />
+    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="ReSharper.FORMAT_STRING_ITEM" />
     <option name="ReSharper.HINT">
       <value>
         <option name="EFFECT_COLOR" value="89ddff" />
@@ -3720,6 +3720,8 @@
         <option name="FOREGROUND" value="616161" />
       </value>
     </option>
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />

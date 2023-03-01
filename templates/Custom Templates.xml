@@ -21,7 +21,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="setup" value="[SetUp]&#10;public void Setup()&#10;{&#10;    $END$&#10;}" description="unit test setup" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="setup" value="[SetUp]&#10;public void Setup()&#10;{&#10;    $END$&#10;}" description="unit test setup" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -34,7 +34,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="ae" value="Assert.AreEqual( $Expected$ , $SELECTION$$END$ );" description="Assert.AreEqual" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="ae" value="Assert.AreEqual( $Expected$ , $SELECTION$$END$ );" description="Assert.AreEqual" toReformat="true" toShortenFQNames="true">
     <variable name="Expected" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
@@ -61,7 +61,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="an" value="Assert.NotNull( $SELECTION$$END$ );" description="Assert.NotNull" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="an" value="Assert.NotNull( $SELECTION$$END$ );" description="Assert.NotNull" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -74,7 +74,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="executeBody" value="var $Entity$  = repository.FindById(input.$End$);&#10;&#10;domainEventBus.PostAll($Entity$);&#10;&#10;output.SetId($Entity$.GetId());&#10;output.SetExitCode(ExitCode.SUCCESS);" description="executeBody" toReformat="false" toShortenFQNames="true">
+  <template name="executeBody" value="var $Entity$  = repository.FindById(input.$End$);&#10;&#10;domainEventBus.PostAll($Entity$);&#10;&#10;output.SetId($Entity$.GetId());&#10;output.SetExitCode(ExitCode.SUCCESS);" description="executeBody" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="Entity" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -89,7 +89,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="usecaseTemplate" value="var input  = new $usecase$Input();&#10;var output = new CqrsCommandPresenter();&#10;input.$Entity$ = $select$;&#10;$UseCase$.Execute(input , output);" description="usecase template" toReformat="false" toShortenFQNames="true">
+  <template name="usecaseTemplate" value="var input  = new $usecase$Input();&#10;var output = new CqrsCommandPresenter();&#10;input.$Entity$ = $select$;&#10;$UseCase$.Execute(input , output);" description="usecase template" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="usecase" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="Entity" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="select" expression="" defaultValue="" alwaysStopAt="true" />
@@ -106,8 +106,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="in" value="[Inject]&#10;private $End$" description="inject attribute" toReformat="false" toShortenFQNames="true" deactivated="true">
-    <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="in" value="[Inject]" description="inject attribute" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
