@@ -7,8 +7,8 @@
       <mapping pattern="log_1643472603061e654b5ba-7387-44e6-a776-03d95c73c8a9" type="PLAIN_TEXT" />
       <mapping ext="fbx" type="PLAIN_TEXT" />
       <mapping ext="rrf" type="PLAIN_TEXT" />
-      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="mpq" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
