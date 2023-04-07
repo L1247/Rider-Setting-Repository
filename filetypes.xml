@@ -9,6 +9,7 @@
       <mapping ext="rrf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
+      <mapping ext="ob" type="PLAIN_TEXT" />
       <mapping ext="mpq" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
