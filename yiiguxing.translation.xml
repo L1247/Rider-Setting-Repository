@@ -34,18 +34,19 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677445548895" />
+    <option name="lastTrimTime" value="1681123161476" />
   </component>
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="model" />
       <item value="monster Spawner" />
       <item value="equipment Item" />
       <item value="projectile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
