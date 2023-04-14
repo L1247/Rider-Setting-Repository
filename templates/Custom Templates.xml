@@ -135,7 +135,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="assert" value="Assert.IsNotNull($VAR$ , &quot;$VAR$ is null&quot;);" toReformat="false" toShortenFQNames="true">
+  <template name="assert" value="Assert.IsNotNull($VAR$ , &quot;$VAR$ is null&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ANY_OPENAPI_JSON_FILE" value="false" />
