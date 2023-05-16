@@ -34,11 +34,12 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682676406823" />
+    <option name="lastTrimTime" value="1684232436192" />
   </component>
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="normal Attack After Trigger" />
       <item value="Test Character Model" />
       <item value="Given A_Fsm Provider For Soldier" />
       <item value="model" />
@@ -48,7 +49,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
