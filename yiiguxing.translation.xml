@@ -34,7 +34,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689689411891" />
+    <option name="lastTrimTime" value="1691091461107" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
@@ -42,6 +42,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Update Datas" />
       <item value="soldier Data" />
       <item value="max Health Observers" />
       <item value="character" />
