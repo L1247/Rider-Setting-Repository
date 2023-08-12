@@ -2,6 +2,8 @@
   <template name="d" value="Debug.Log($&quot;$Select$&quot;);" description="Debug.Log" toReformat="false" toShortenFQNames="true">
     <variable name="Select" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
@@ -15,7 +17,9 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
+      <option name="PUML" value="false" />
       <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
       <option name="SQL" value="false" />
       <option name="TypeScript" value="false" />
       <option name="XML" value="false" />
@@ -106,13 +110,16 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="in" value="[Inject]&#10;private $End$" description="inject attribute" toReformat="false" toShortenFQNames="true">
-    <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="in" value="[Inject]" description="inject attribute" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="CoffeeScript" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
       <option name="HTML" value="false" />
       <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
       <option name="Handlebars" value="false" />
@@ -120,9 +127,44 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
+      <option name="PUML" value="false" />
       <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
       <option name="SQL" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="assert" value="Assert.IsNotNull($VAR$ , &quot;$VAR$ is null&quot;);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
+      <option name="CSS" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PUML" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="reth" value="return this;" description="return this" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
+      <option name="CSS" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PUML" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
       <option name="XML" value="false" />
     </context>
   </template>
