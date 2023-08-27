@@ -1,0 +1,75 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="進入Idle狀態" />
+      <item value="Description" />
+      <item value="factory" />
+      <item value="skill Helper" />
+      <item value="actor Movement" />
+      <item value="skill Commander" />
+      <item value="Should Return Positive Number Of Add Result" />
+      <item value="Should Return Positive Number" />
+      <item value="Positive" />
+      <item value="dfhsakjfmndsnf" />
+      <item value="dfhsakj" />
+      <item value="Abstract Builder" />
+      <item value="id" />
+      <item value="Get Actor Id" />
+      <item value="actor Id" />
+      <item value="Id" />
+      <item value="actor" />
+      <item value="google" />
+      <item value="g" />
+      <item value="a" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE_TRADITIONAL" value="17" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1681544771328" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1691688617934" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
+  </component>
+  <component name="Translation.States">
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="character Data" />
+      <item value="Update Datas" />
+      <item value="soldier Data" />
+      <item value="max Health Observers" />
+      <item value="character" />
+      <item value="effect Object" />
+      <item value="Helper" />
+      <item value="Validation" />
+      <item value="error" />
+      <item value="Validate" />
+      <item value="Validate Item" />
+      <item value="Validation Helper" />
+      <item value="normal Attack After Trigger" />
+      <item value="Test Character Model" />
+      <item value="Given A_Fsm Provider For Soldier" />
+      <item value="model" />
+      <item value="monster Spawner" />
+      <item value="equipment Item" />
+      <item value="projectile" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE_TRADITIONAL" value="7" />
+        <entry key="ENGLISH" value="22" />
+      </map>
+    </option>
+  </component>
+</application>

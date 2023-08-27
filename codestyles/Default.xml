@@ -1,0 +1,8 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="135" />
+  <codeStyleSettings language="EditorConfig">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SPACE_BEFORE_COLON" value="true" />
+    <option name="SPACE_AFTER_COLON" value="true" />
+  </codeStyleSettings>
+</code_scheme>

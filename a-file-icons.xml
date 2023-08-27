@@ -1,0 +1,10 @@
+<application>
+  <component name="AtomFileIconsConfig">
+    <option name="monochromeColor" value="498d6b" />
+    <option name="themedColor" value="a7a7a7" />
+    <option name="hasCustomIconSize" value="true" />
+    <option name="hasCustomLineHeight" value="true" />
+    <option name="customIconSize" value="22" />
+    <option name="customLineHeight" value="18" />
+  </component>
+</application>
