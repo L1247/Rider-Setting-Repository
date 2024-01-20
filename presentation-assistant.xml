@@ -1,8 +1,13 @@
 <application>
   <component name="PresentationAssistant">
-    <option name="alternativeKeymap" />
+    <option name="alternativeKeymap">
+      <KeymapDescription>
+        <option name="name" value="ReSharper" />
+      </KeymapDescription>
+    </option>
     <option name="mainKeymap">
       <KeymapDescription>
+        <option name="displayText" value="123" />
         <option name="name" value="rStar" />
       </KeymapDescription>
     </option>
