@@ -65,7 +65,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="an" value="Assert.NotNull( $SELECTION$$END$ );" description="Assert.NotNull" toReformat="true" toShortenFQNames="true">
+  <template name="an" value="Assert.IsNotNull( $SELECTION$$END$ );" description="Assert.NotNull" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -165,6 +165,22 @@
       <option name="OTHER" value="true" />
       <option name="PUML" value="false" />
       <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="ini" value="[Inject(Id = $END$)]" description="Inject Id" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="inio" value="[Inject(Id = $END$ , Optional = true)]" description="Inject Id with optional" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
       <option name="XML" value="false" />
     </context>
   </template>

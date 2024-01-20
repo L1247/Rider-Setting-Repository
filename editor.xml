@@ -21,7 +21,10 @@
   <component name="CodeVisionSettings">
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="Burst compiled code" />
         <option value="F# Inferred types" />
+        <option value="UFunctions implementations" />
+        <option value="UProperties write access" />
       </set>
     </option>
   </component>
@@ -30,6 +33,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
