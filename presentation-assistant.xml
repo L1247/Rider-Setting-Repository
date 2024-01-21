@@ -2,13 +2,10 @@
   <component name="PresentationAssistant">
     <option name="alternativeKeymap" />
     <option name="fontSize" value="32" />
-    <option name="horizontalAlignment" value="RIGHT" />
     <option name="mainKeymap">
       <KeymapDescription>
         <option name="name" value="rStar" />
       </KeymapDescription>
     </option>
-    <option name="showActionDescriptions" value="false" />
-    <option name="verticalAlignment" value="TOP" />
   </component>
 </application>
