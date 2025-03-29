@@ -5,7 +5,7 @@
     <property name="description">Changed unused field and static field</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2025-03-28T14:28:55</property>
+    <property name="modified">2025-03-29T19:25:34</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail" />
     <property name="vendorName">rStar Material Darker v0.15</property>
@@ -3476,13 +3476,13 @@
     </option>
     <option name="ReSharper.CSHARP_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4aaba8" />
+        <option name="FOREGROUND" value="888163" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.CSHARP_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4ec5dc" />
+        <option name="FOREGROUND" value="886e63" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
